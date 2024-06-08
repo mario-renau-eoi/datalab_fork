@@ -1,0 +1,10 @@
+/.idea/
+/mongodb/
+/postgres/
+/elasticsearch/esdata/
+/clickhouse/data/
+/cassandra/data/
+/airflow/
+/spark/work/
+/mysql/db/
+/hadoop/hdfs/
